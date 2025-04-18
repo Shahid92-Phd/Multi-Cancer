@@ -1,0 +1,1 @@
+Cancer is a leading cause of death worldwide, and its early detection is crucial for improving patient outcomes. This study aimed to develop and evaluate ensemble learning models, specifically stacking, for accurate prediction of lung, breast, and cervical cancers using lifestyle and clinical data.
